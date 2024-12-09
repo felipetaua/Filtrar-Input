@@ -2,6 +2,9 @@
 
 Este projeto é uma aplicação simples para filtrar produtos em uma lista dinâmica usando dados de uma API. Ele utiliza a [Fake Store API](https://fakestoreapi.com/) para simular produtos de uma loja e permite ao usuário buscar por itens em tempo real.
 
+[![Live Server](https://img.shields.io/badge/Live_Server-Click_Here-brightgreen?style=for-the-badge)](https://felipetaua.github.io/Filtrar-Input/)
+
+
 ## Funcionalidades
 
 - Consumo de dados da [Fake Store API](https://fakestoreapi.com/).
